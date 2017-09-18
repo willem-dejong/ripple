@@ -1,4 +1,4 @@
-#Willem DeJong
+//Willem DeJong
 #include <stdlib.h>
 #include <stdio.h>
 #include "glut.h"
